@@ -51,7 +51,7 @@ copyright = "&copy;2018 Barlon Salon"
 
       [[params.links.list1.link]]
         text = "Email"
-        mailto = "cathy@barlonsalon.com"
+        mailto = "#"
 
       [[params.links.list1.link]]
         text = "Newsletter"
