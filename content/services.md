@@ -1,6 +1,6 @@
-+++
-title = "Barlon Salon - Services"
-+++
+
+# title = "Barlon Salon - Services"
+
 
 Barlon Salon in Chandler, AZ, offers specialized hair care and beauty treatments in a relaxing and comfortable environment.
 
