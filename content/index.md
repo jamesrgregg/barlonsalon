@@ -1,7 +1,5 @@
-+++
-title = "Beauty Salon"
-tagline = "Barlon Salon"
-+++
+# Barlon Salon
+
 
 Welcome to Barlon Salon, where your hair is pampered and treated by professional stylists.
 
